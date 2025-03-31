@@ -128,3 +128,9 @@ commande
 INNER JOIN ligne ON commande.id = ligne.commande_id
 WHERE commande_id=1;
 ```
+
+# Images prouvant le bon fonctionnement du code 
+
+![alt text](../img/tabbrad.png)
+
+![alt text](../img/tabtotal.png)
